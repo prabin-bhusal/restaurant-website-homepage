@@ -2,6 +2,8 @@
 
 Welcome to the repository for our Responsive Food/Restaurant Website project! This project demonstrates the creation of a fully responsive and visually engaging website for a food or restaurant business using only HTML and CSS.
 
+Live Link: https://prabin-bhusal.github.io/restaurant-website-homepage/
+
 ## Introduction
 
 In this project, we've built a sleek and modern website for food or restaurant businesses that adjusts seamlessly to various devices, including desktops, tablets, and mobile phones. The website features a captivating hero section, a delightful menu display, an interactive gallery, and a user-friendly reservation/contact form.
